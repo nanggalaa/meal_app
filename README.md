@@ -1,8 +1,11 @@
 # meal_app
 
 Nama : Zacky Putra Nanggala
+
 NIM : G.211.23.0073
+
 Prodi : Teknik Informatika B1
+
 Mata Kuliah : Mobile Programming
 
 A new Flutter project.
